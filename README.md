@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a personal 3D profile website with threes.js, NLP for comments inside open source projects
-- 🌱 I’m currently learning pentesting, blockchain and algorithms
-- 👯 I’m looking to collaborate on building a start up
-- 🤔 I’m looking for help with decentralised systems for startups
+- 🔭 **I’m currently working on** a personal 3D profile website with threes.js, NLP for comments inside open source projects
+- 🌱 **I’m currently learning** pentesting, blockchain and algorithms
+- 👯 **I’m looking to collaborate on** building a start up
+- 🤔 **I’m looking for help with** building decentralised systems for startups
 <!-- - 💬 Ask me about how  -->
 - 📫 How to reach me: luyang.l@aol.com
 - 😄 Pronouns: He/Him
