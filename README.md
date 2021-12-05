@@ -8,10 +8,13 @@
 <!-- **luyangliuable/luyangliuable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 **I’m currently working on** a personal 3D profile website with threes.js, NLP for comments inside open source projects
-- 🌱 **I’m currently learning** pentesting, blockchain and algorithms
+- 🌱 **I’m currently learning** pentesting, blockchain algorithms and looking into web3.0
 - 👯 **I’m looking to collaborate on** building a start up
 - 🤔 **I’m looking for help with** building decentralised systems for startups
 <!-- - 💬 Ask me about how  -->
 - 📫 How to reach me: luyang.l@aol.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born on Christmas
+- ▶ Recommended video right now: [2022 is gonna be wild for developers...]( https://www.youtube.com/watch?v=LOpFYMPXqE4 )
+
+
