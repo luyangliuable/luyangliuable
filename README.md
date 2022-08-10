@@ -8,7 +8,7 @@
 <!-- **luyangliuable/luyangliuable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 **I’m currently working on** a personal 3D profile website with threes.js, NLP for comments inside open source projects
-- 🌱 **I’m currently learning** pentesting, blockchain algorithms and looking into web3.0
+- 🌱 **I’m currently learning** blockchain algorithms and looking into web3.0
 - 👯 **I’m looking to collaborate on** building a start up
 - 🤔 **I’m looking for help with** building decentralised systems for startups
 <!-- - 💬 Ask me about how  -->
