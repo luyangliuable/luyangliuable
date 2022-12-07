@@ -39,7 +39,6 @@
 </td>
 </tr>
 <tr>
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
 </tr>
 <table>
 
