@@ -2,6 +2,7 @@
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/luyangliuable)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luyang-l-33a687256)
+![](https://komarev.com/ghpvc/?username=luyangliuable&color=1e90ff)
 
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/luyangliuablle)  -->
 
@@ -17,9 +18,12 @@
 - ⚡ Fun fact: Born on Christmas
 - ▶ Recommended video right now: [2022 is gonna be wild for developers...]( https://www.youtube.com/watch?v=LOpFYMPXqE4 )
 
+<style>
+td, th, tr {
+   border: none!important;
+}
+</style>
 
-![](https://komarev.com/ghpvc/?username=luyangliuable&color=1e90ff)
-
-![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-dark-mode-only)
+|                                                                                                                                  |                                                                                                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-dark-mode-only) |
