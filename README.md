@@ -4,11 +4,7 @@
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/luyangliuable)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luyang-l-33a687256)
-  
-<div style="float:right">
 
-![](https://komarev.com/ghpvc/?username=luyangliuable&color=1e90ff)
-</div>
 </div>
 
 
@@ -105,4 +101,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<div style="float:right">
+
+![](https://komarev.com/ghpvc/?username=luyangliuable&color=1e90ff)
+</div>
