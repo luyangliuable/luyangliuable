@@ -32,12 +32,12 @@
 <td style="border:none">
 
 ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/overview.svg#gh-light-mode-only)
 </td>
 <td style="border:none">
-  
+
 ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-light-mode-only)
 
 </td>
 </tr>
@@ -54,7 +54,7 @@
 
 ### Frontend
 <div align="center">
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
