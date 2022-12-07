@@ -1,8 +1,8 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
-<div align="center" style="width: 40%;">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
+<!-- <div align="center" style="width: 50%"> -->
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+<!-- </div> -->
 
 <div style="display: flex; align-items: flex-end">
 
