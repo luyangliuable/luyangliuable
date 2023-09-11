@@ -27,7 +27,7 @@
 <!-- - 💬 Ask me about how  -->
 - 📫 How to reach me: luyang.l@aol.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Born on Christmas, I get motion sick when i do leetcode for more than 3 hours.
+- ⚡ Fun fact: Born on Christmas.
 - ▶ Recommended video right now: [2022 is gonna be wild for developers...]( https://www.youtube.com/watch?v=LOpFYMPXqE4 )
 
 <table style="border:none">
