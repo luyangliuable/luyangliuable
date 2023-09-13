@@ -30,20 +30,9 @@
 - ⚡ Fun fact: Born on Christmas.
 - ▶ Recommended video right now: [2022 is gonna be wild for developers...]( https://www.youtube.com/watch?v=LOpFYMPXqE4 )
 
-<table style="border:none">
-<tr style="border:none">
-<td style="border:none">
-</td>
-<td style="border:none">
-
 ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/luyangliuable/github-status-luyangliuable/master/generated/languages.svg#gh-light-mode-only)
-  
-</td>
-</tr>
-<tr>
-</tr>
-<table>
+
 
 ### My Top Proven Skill Set
 <table style="border:none">
