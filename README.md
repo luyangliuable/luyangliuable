@@ -25,7 +25,7 @@
 - 👯 **I’m looking to collaborate on** an open source project
 - 🤔 **I’m looking for help with**
 <!-- - 💬 Ask me about how  -->
-- 📫 How to reach me: luyang.l@aol.com
+- 📫 How to reach me: For work or recruitment email luyang.l@aol.com, for consulting me or any questions email luyang.l@proton.me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born on Christmas.
 - ▶ Recommended video right now: [2022 is gonna be wild for developers...]( https://www.youtube.com/watch?v=LOpFYMPXqE4 )
