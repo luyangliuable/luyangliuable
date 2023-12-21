@@ -6,6 +6,8 @@
 
 <div style="display: flex; align-items: flex-end">
 
+[<img src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logo=global&logoColor=white&color=purple" />](http://llcode.tech)
+[<img src="https://img.shields.io/badge/notion-%2312100E.svg?&style=for-the-badge&logo=notion&logoColor=%23333&color=%239e9e9e" />](https://luyangl.notion.site/luyangl/71be1ff365c44fd2b4f6f8dce14b7536?v=f1e55d08878e4bfda1b744e76b9480c7)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/luyangliuable)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luyang-l)
 [<img src="https://img.shields.io/badge/codecademy-%2312100E.svg?&style=for-the-badge&logo=codecademy&logoColor=white&color=black" />](https://www.codecademy.com/profiles/luyangliuable)
