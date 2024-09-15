@@ -44,9 +44,7 @@
 ### My Top Proven Skill Set
 <table style="border:none">
 <tr style="border:none">
-<td style="border:none; border-right: .1px solid #888" valign="top" width="25%">
-
-
+<td style="border:none; border-right: .1px solid #888" valign="top" width="35%">
 
 ### Frontend
 <div align="center">
@@ -62,7 +60,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </div>
 
-</td><td valign="top" width="25%" style="border:none; border-right: .1px solid #888">
+</td><td valign="top" width="35%" style="border:none; border-right: .1px solid #888">
 
 
 ### Backend
@@ -80,7 +78,7 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/images/box-logo.png" alt="Rust" height="50" /></a>
 </div>
 
-</td><td valign="top" width="25%" style="border:none; border-right: .1px solid #888">
+</td><td valign="top" width="15%" style="border:none; border-right: .1px solid #888">
 
 ### Languages  
 <div align="center">
@@ -92,7 +90,7 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
 </div>
 
-</td><td valign="top" width="25%" style="border: none">
+</td><td valign="top" width="15%" style="border: none">
 
 
 ### Operations
