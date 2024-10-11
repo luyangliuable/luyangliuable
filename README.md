@@ -27,7 +27,7 @@
 
 <!-- **luyangliuable/luyangliuable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 **I’m currently working on** a personal  profile website with Next.js and Rust Rocket backend.
+- 🔭 **I’m currently working on** a personal  profile website with Next.js and Rust Rocket.
 - 🌱 **I’m currently learning** mlops, machine learning and web assembly using rust.
 - 👯 **I’m looking to collaborate on** an open source project
 - 🤔 **I’m looking for help with** finding my ikigai
